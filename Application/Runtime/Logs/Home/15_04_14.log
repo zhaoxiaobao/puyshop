@@ -1,0 +1,2037 @@
+[ 2015-04-14T08:07:11+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001826s ]
+
+[ 2015-04-14T08:07:15+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+
+[ 2015-04-14T08:07:16+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:18+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+
+[ 2015-04-14T08:07:19+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:20+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2015-04-14T08:07:20+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+
+[ 2015-04-14T08:07:20+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:20+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T08:07:20+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001727s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:48+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+
+[ 2015-04-14T08:07:48+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T08:07:48+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:48+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011368s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:07:53+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+
+[ 2015-04-14T08:07:53+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:06+08:00 ] ::1 /1/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+
+[ 2015-04-14T08:08:06+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2015-04-14T08:08:07+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+
+[ 2015-04-14T08:08:07+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:09+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+
+[ 2015-04-14T08:08:10+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:11+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001522s ]
+
+[ 2015-04-14T08:08:11+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:15+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+
+[ 2015-04-14T08:08:15+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2015-04-14T08:08:15+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:17+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+
+[ 2015-04-14T08:08:17+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001414s ]
+
+[ 2015-04-14T08:08:17+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001487s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:17+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T08:08:17+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001522s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:08:19+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2015-04-14T08:08:19+08:00 ] ::1 /1/index.php/Home/Register/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001314s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:18:38+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+
+[ 2015-04-14T08:18:43+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2015-04-14T08:18:43+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:18:49+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+
+[ 2015-04-14T08:18:49+08:00 ] ::1 /1/index.php/Home/Register/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T08:18:49+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+
+[ 2015-04-14T08:18:49+08:00 ] ::1 /1/index.php/Home/Register/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001685s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T19:54:10+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+
+[ 2015-04-14T19:54:15+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+
+[ 2015-04-14T19:54:33+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2015-04-14T19:54:33+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T19:54:38+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002511s ]
+
+[ 2015-04-14T19:54:38+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T19:54:38+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T19:54:38+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:01:59+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+
+[ 2015-04-14T21:02:49+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002052s ]
+
+[ 2015-04-14T21:05:45+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+
+[ 2015-04-14T21:10:26+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2015-04-14T21:10:28+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-04-14T21:10:28+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001490s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:10:36+08:00 ] ::1 /1/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001587s ]
+
+[ 2015-04-14T21:10:36+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+
+[ 2015-04-14T21:10:36+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+
+[ 2015-04-14T21:10:36+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:10:39+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+
+[ 2015-04-14T21:10:39+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:10:40+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+
+[ 2015-04-14T21:10:40+08:00 ] ::1 /1/index.php/Home/Publish/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:10:56+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+
+[ 2015-04-14T21:10:56+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:10:56+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:10:56+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002740s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:11:07+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-04-14T21:11:08+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+
+[ 2015-04-14T21:11:08+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:17:23+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+
+[ 2015-04-14T21:17:26+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-04-14T21:17:26+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001701s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:17:26+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:17:26+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:17:28+08:00 ] ::1 /1/index.php/Home/Index/clist/gclass/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+
+[ 2015-04-14T21:17:29+08:00 ] ::1 /1/index.php/Home/Index/clist/gclass/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001905s ]
+
+[ 2015-04-14T21:17:29+08:00 ] ::1 /1/index.php/Home/Index/clist/gclass/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002868s ]
+
+[ 2015-04-14T21:17:29+08:00 ] ::1 /1/index.php/Home/Index/clist/gclass/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004479s ]
+
+[ 2015-04-14T21:17:32+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2015-04-14T21:17:32+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001656s ]
+
+[ 2015-04-14T21:17:32+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002066s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007166s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.019176s ]
+
+[ 2015-04-14T21:17:34+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+
+[ 2015-04-14T21:17:35+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2015-04-14T21:17:35+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002563s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007008s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000859s ]
+
+[ 2015-04-14T21:18:43+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+
+[ 2015-04-14T21:18:44+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+
+[ 2015-04-14T21:18:44+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002080s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007168s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001160s ]
+
+[ 2015-04-14T21:18:52+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2015-04-14T21:18:52+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001701s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:18:52+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002390s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:18:52+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003008s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:19:05+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2015-04-14T21:19:06+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:19:06+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006613s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:19:06+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001644s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:19:59+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+
+[ 2015-04-14T21:19:59+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+
+[ 2015-04-14T21:19:59+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:20:03+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2015-04-14T21:20:03+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+
+[ 2015-04-14T21:20:03+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001944s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:20:03+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:20:03+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001660s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:20:07+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+
+[ 2015-04-14T21:20:08+08:00 ] ::1 /1/index.php/Home/Register/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:20:13+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+
+[ 2015-04-14T21:20:13+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:20:13+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:20:13+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:21:26+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001701s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:21:26+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:21:55+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+
+[ 2015-04-14T21:21:55+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:21:56+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001556s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:21:56+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:22:06+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+
+[ 2015-04-14T21:22:06+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001626s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:22:06+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001850s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:22:06+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:23:01+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001731s ]
+
+[ 2015-04-14T21:23:01+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002554s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:23:01+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001831s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:23:01+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:23:04+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+
+[ 2015-04-14T21:23:04+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003478s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:23:04+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:23:04+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002275s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:24:59+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+
+[ 2015-04-14T21:24:59+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001809s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:24:59+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002154s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:24:59+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001703s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:25:01+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/115.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+
+[ 2015-04-14T21:25:01+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2015-04-14T21:25:01+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002134s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007380s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 115 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000876s ]
+
+[ 2015-04-14T21:25:20+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+
+[ 2015-04-14T21:25:20+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001719s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:25:20+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002053s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:25:20+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:25:48+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/144.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+
+[ 2015-04-14T21:25:48+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+
+[ 2015-04-14T21:25:49+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002939s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.433853s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 144 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001004s ]
+
+[ 2015-04-14T21:26:01+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/144.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+
+[ 2015-04-14T21:26:01+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001827s ]
+
+[ 2015-04-14T21:26:02+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007988s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 144 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000875s ]
+
+[ 2015-04-14T21:27:13+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001733s ]
+
+[ 2015-04-14T21:27:13+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:27:13+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002531s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:27:13+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006676s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:27:17+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+
+[ 2015-04-14T21:27:18+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:27:18+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002015s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:27:18+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T21:28:24+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001366s ]
+
+[ 2015-04-14T21:28:24+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000761s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002541s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:28:24+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T21:28:24+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:33:10+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+
+[ 2015-04-14T23:33:15+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+
+[ 2015-04-14T23:33:15+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:33:16+08:00 ] ::1 /1/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2015-04-14T23:33:16+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002074s ]
+
+[ 2015-04-14T23:33:17+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+
+[ 2015-04-14T23:33:17+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003341s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:33:21+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002360s ]
+
+[ 2015-04-14T23:33:21+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002105s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:34:10+08:00 ] ::1 /1/index.php/Home/Com/do_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-04-14T23:34:10+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002133s ]
+
+[ 2015-04-14T23:34:11+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:34:17+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001521s ]
+
+[ 2015-04-14T23:34:17+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:34:19+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+
+[ 2015-04-14T23:34:19+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:34:23+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+
+[ 2015-04-14T23:34:23+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001670s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:34:37+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2015-04-14T23:34:38+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+
+[ 2015-04-14T23:34:38+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:08+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+
+[ 2015-04-14T23:35:08+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:10+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+
+[ 2015-04-14T23:35:10+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002059s ]
+
+[ 2015-04-14T23:35:10+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:10+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000224s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:10+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001674s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:35:35+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+
+[ 2015-04-14T23:35:35+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002004s ]
+
+[ 2015-04-14T23:35:35+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001743s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:35+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002163s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:35:35+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001789s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:35:38+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+
+[ 2015-04-14T23:35:38+08:00 ] ::1 /1/index.php/Home/Register/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:19+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+
+[ 2015-04-14T23:36:19+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+
+[ 2015-04-14T23:36:19+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:30+08:00 ] ::1 /1/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-04-14T23:36:30+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-04-14T23:36:30+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001346s ]
+
+[ 2015-04-14T23:36:30+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001868s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:34+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+
+[ 2015-04-14T23:36:34+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:39+08:00 ] ::1 /1/index.php/Home/Com/do_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-04-14T23:36:40+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+
+[ 2015-04-14T23:36:40+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:42+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+
+[ 2015-04-14T23:36:42+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:36:43+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002244s ]
+
+[ 2015-04-14T23:36:44+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:37:24+08:00 ] ::1 /1/index.php/Home/Com/do_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+
+[ 2015-04-14T23:37:25+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+
+[ 2015-04-14T23:37:25+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:37:27+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+
+[ 2015-04-14T23:37:27+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003254s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:37:30+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+
+[ 2015-04-14T23:37:30+08:00 ] ::1 /1/index.php/Home/Publish/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:38:42+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+
+[ 2015-04-14T23:41:18+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002281s ]
+
+[ 2015-04-14T23:42:02+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+
+[ 2015-04-14T23:42:02+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001663s ]
+
+[ 2015-04-14T23:42:02+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002026s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:42:02+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005086s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:42:02+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000313s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002074s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:42:04+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+
+[ 2015-04-14T23:42:05+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+
+[ 2015-04-14T23:42:05+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003207s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009428s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000823s ]
+
+[ 2015-04-14T23:42:18+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+
+[ 2015-04-14T23:42:18+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+
+[ 2015-04-14T23:42:18+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003455s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.008712s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000835s ]
+
+[ 2015-04-14T23:43:42+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+
+[ 2015-04-14T23:43:43+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002272s ]
+
+[ 2015-04-14T23:43:43+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003376s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010231s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000955s ]
+
+[ 2015-04-14T23:43:51+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+
+[ 2015-04-14T23:43:51+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+
+[ 2015-04-14T23:43:51+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002245s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009991s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000893s ]
+
+[ 2015-04-14T23:44:05+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-04-14T23:44:06+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001812s ]
+
+[ 2015-04-14T23:44:06+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002769s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010227s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000882s ]
+
+[ 2015-04-14T23:44:56+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2015-04-14T23:44:56+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:44:56+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:44:56+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004138s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:44:58+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/144.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002366s ]
+
+[ 2015-04-14T23:44:58+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001845s ]
+
+[ 2015-04-14T23:44:59+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002979s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009836s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 144 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001015s ]
+
+[ 2015-04-14T23:45:03+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/142.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+
+[ 2015-04-14T23:45:04+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+
+[ 2015-04-14T23:45:04+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003125s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010660s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 142 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001074s ]
+
+[ 2015-04-14T23:45:10+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/142.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2015-04-14T23:45:10+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+
+[ 2015-04-14T23:45:10+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010872s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 142 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000989s ]
+
+[ 2015-04-14T23:50:40+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002060s ]
+
+[ 2015-04-14T23:50:40+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+
+[ 2015-04-14T23:50:41+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003131s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.008812s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000871s ]
+
+[ 2015-04-14T23:51:40+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001366s ]
+
+[ 2015-04-14T23:51:40+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001985s ]
+
+[ 2015-04-14T23:51:41+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002817s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009846s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000925s ]
+
+[ 2015-04-14T23:51:56+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+
+[ 2015-04-14T23:51:56+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2015-04-14T23:51:57+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002250s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.008962s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001080s ]
+
+[ 2015-04-14T23:52:02+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+
+[ 2015-04-14T23:52:02+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002081s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:52:02+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:52:02+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001732s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:52:05+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/142.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001245s ]
+
+[ 2015-04-14T23:52:05+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+
+[ 2015-04-14T23:52:05+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003518s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009561s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 142 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000959s ]
+
+[ 2015-04-14T23:52:14+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-04-14T23:52:15+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-04-14T23:52:15+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003329s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.011333s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000955s ]
+
+[ 2015-04-14T23:52:20+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+
+[ 2015-04-14T23:52:20+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+
+[ 2015-04-14T23:52:21+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003310s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009510s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001031s ]
+
+[ 2015-04-14T23:52:35+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+
+[ 2015-04-14T23:52:35+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+
+[ 2015-04-14T23:52:36+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002072s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009864s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000974s ]
+
+[ 2015-04-14T23:53:00+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+
+[ 2015-04-14T23:53:00+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+
+[ 2015-04-14T23:53:01+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003978s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010088s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001020s ]
+
+[ 2015-04-14T23:53:09+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002243s ]
+
+[ 2015-04-14T23:53:10+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+
+[ 2015-04-14T23:53:10+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003348s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009806s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001146s ]
+
+[ 2015-04-14T23:53:31+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2015-04-14T23:53:31+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001804s ]
+
+[ 2015-04-14T23:53:32+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003638s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009585s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000827s ]
+
+[ 2015-04-14T23:53:58+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-04-14T23:53:58+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+
+[ 2015-04-14T23:53:58+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003141s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.010137s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001019s ]
+
+[ 2015-04-14T23:55:21+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+
+[ 2015-04-14T23:55:21+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:55:21+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:55:21+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:55:32+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+
+[ 2015-04-14T23:55:32+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+
+[ 2015-04-14T23:55:32+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.011563s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000962s ]
+
+[ 2015-04-14T23:55:43+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000322s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+
+[ 2015-04-14T23:55:43+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:55:43+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001684s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:55:43+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001670s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:55:49+08:00 ] ::1 /1/index.php/Home/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001965s ]
+
+[ 2015-04-14T23:55:49+08:00 ] ::1 /1/index.php/Home/Index/index/p/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+
+[ 2015-04-14T23:55:49+08:00 ] ::1 /1/index.php/Home/Index/index/p/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002179s ]
+
+[ 2015-04-14T23:55:49+08:00 ] ::1 /1/index.php/Home/Index/index/p/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006462s ]
+
+[ 2015-04-14T23:55:55+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2015-04-14T23:55:55+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-04-14T23:55:55+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:55:58+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+
+[ 2015-04-14T23:55:58+08:00 ] ::1 /1/index.php/Home/Com/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:01+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+
+[ 2015-04-14T23:56:01+08:00 ] ::1 /1/index.php/Home/Publish/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:04+08:00 ] ::1 /1/index.php/Home/Pro/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001762s ]
+
+[ 2015-04-14T23:56:04+08:00 ] ::1 /1/index.php/Home/Pro/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:07+08:00 ] ::1 /1/index.php/Home/Pro/edit/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+
+[ 2015-04-14T23:56:07+08:00 ] ::1 /1/index.php/Home/Pro/edit/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2015-04-14T23:56:38+08:00 ] ::1 /1/index.php/Home/Pro/do_edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002403s ]
+
+[ 2015-04-14T23:56:39+08:00 ] ::1 /1/index.php/Home/Pro/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2015-04-14T23:56:39+08:00 ] ::1 /1/index.php/Home/Pro/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:43+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+
+[ 2015-04-14T23:56:43+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+
+[ 2015-04-14T23:56:43+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009212s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000924s ]
+
+[ 2015-04-14T23:56:55+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+
+[ 2015-04-14T23:56:55+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:55+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:56:55+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:57:41+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+
+[ 2015-04-14T23:57:41+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002266s ]
+
+[ 2015-04-14T23:57:41+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:57:41+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:57:41+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003880s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:57:44+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-04-14T23:57:45+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+
+[ 2015-04-14T23:57:45+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003101s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009331s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000872s ]
+
+[ 2015-04-14T23:57:55+08:00 ] ::1 /1/index.php/Home/Pro/comment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002010s ]
+
+[ 2015-04-14T23:59:14+08:00 ] ::1 /1/index.php/Home/Pro/comment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001638s ]
+
+[ 2015-04-14T23:59:15+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-04-14T23:59:15+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:59:15+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001878s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:59:15+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:59:31+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+
+[ 2015-04-14T23:59:31+08:00 ] ::1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001693s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:59:31+08:00 ] ::1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002159s ]
+ERR: 非法操作:js
+
+[ 2015-04-14T23:59:31+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:59:33+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/146.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+
+[ 2015-04-14T23:59:33+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+
+[ 2015-04-14T23:59:34+08:00 ] ::1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002005s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.009551s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 146 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001404s ]
+
+[ 2015-04-14T23:59:39+08:00 ] ::1 /1/index.php/Home/Pro/comment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+
+[ 2015-04-14T23:59:39+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+
+[ 2015-04-14T23:59:39+08:00 ] ::1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+ERR: 非法操作:css
+
+[ 2015-04-14T23:59:44+08:00 ] ::1 /1/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+
+[ 2015-04-14T23:59:44+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2015-04-14T23:59:44+08:00 ] ::1 /1/index.php/Home/Stu/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001698s ]
+
+[ 2015-04-14T23:59:44+08:00 ] ::1 /1/index.php/Home/Stu/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+ERR: 非法操作:css
+

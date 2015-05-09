@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link  rel="stylesheet" type="text/css"  href="style.css">
+    <title>微店铺登录</title>
+</head>
+<body>
+    <h1> 微淘网</h1>
+    <div id="page" class="">
+        <div id="header" class="clearfix" data-spm="1000340">
+            <h1 id="logo">
+                <a href="homepage.html">
+                    <img id="wmalllogo" src="__PUBLIC__/image/logo.png" alt="微店铺" />
+                </a>
+                <span class="sub-logo"></span>
+            </h1>
+        </div>
+    </div>
+    <form name="input" action="{:U('Login/index')}" method="post">
+        <p>用户名：
+            <input type="text" name="user" /><br /></p>
+            <p>
+                密码：
+                <input type="type" name="password" /><br /></p>
+                <input type="submit" value="登录" />
+                <a href="{:U('Register/index')}">注册</a>
+                <a href="{:U('Login/findpass')}">找回密码</a>
+            </form>
+        </body>
+        </html>

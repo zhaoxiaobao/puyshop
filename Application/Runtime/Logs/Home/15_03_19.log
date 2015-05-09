@@ -1,0 +1,1694 @@
+[ 2015-03-19T09:49:49+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2015-03-19T09:50:01+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/58.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2015-03-19T09:50:06+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+
+[ 2015-03-19T09:50:06+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001314s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T09:50:31+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2015-03-19T09:50:31+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T09:50:37+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
+[ 2015-03-19T09:50:38+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+
+[ 2015-03-19T09:50:39+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+
+[ 2015-03-19T09:50:46+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+
+[ 2015-03-19T09:50:46+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+
+[ 2015-03-19T09:50:52+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+
+[ 2015-03-19T09:51:03+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+
+[ 2015-03-19T09:51:17+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+
+[ 2015-03-19T09:51:24+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+
+[ 2015-03-19T16:13:10+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2015-03-19T16:13:16+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/58.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001845s ]
+
+[ 2015-03-19T16:13:20+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2015-03-19T16:13:20+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T16:13:26+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2015-03-19T16:13:26+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002526s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T16:13:29+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+
+[ 2015-03-19T16:13:29+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:50:01+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+
+[ 2015-03-19T18:50:05+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001513s ]
+
+[ 2015-03-19T18:50:05+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006813s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:50:07+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+
+[ 2015-03-19T18:50:08+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:50:10+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2015-03-19T18:50:13+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2015-03-19T18:50:13+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:51:51+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2015-03-19T18:51:51+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:51:54+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2015-03-19T18:51:54+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001502s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T18:51:59+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+
+[ 2015-03-19T18:51:59+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2015-03-19T18:52:00+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+
+[ 2015-03-19T18:52:01+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001839s ]
+
+[ 2015-03-19T18:52:04+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+
+[ 2015-03-19T18:52:04+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+
+[ 2015-03-19T18:52:06+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+
+[ 2015-03-19T18:52:09+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+
+[ 2015-03-19T18:52:15+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+
+[ 2015-03-19T18:56:32+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+
+[ 2015-03-19T18:56:35+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+
+[ 2015-03-19T18:56:35+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+
+[ 2015-03-19T18:56:36+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003606s ]
+
+[ 2015-03-19T18:56:37+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+
+[ 2015-03-19T18:56:38+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002402s ]
+
+[ 2015-03-19T18:56:38+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2015-03-19T18:56:43+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001761s ]
+
+[ 2015-03-19T18:56:43+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2015-03-19T18:58:23+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+
+[ 2015-03-19T18:58:23+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+
+[ 2015-03-19T18:59:57+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001575s ]
+
+[ 2015-03-19T18:59:57+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001727s ]
+
+[ 2015-03-19T18:59:59+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+
+[ 2015-03-19T18:59:59+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+
+[ 2015-03-19T19:00:01+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+
+[ 2015-03-19T19:00:03+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-03-19T19:00:03+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+
+[ 2015-03-19T19:00:04+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+
+[ 2015-03-19T19:00:04+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001533s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T19:00:08+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/58.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-03-19T19:17:02+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001889s ]
+
+[ 2015-03-19T19:17:03+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+
+[ 2015-03-19T19:19:16+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-03-19T19:19:16+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002540s ]
+
+[ 2015-03-19T19:20:43+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+
+[ 2015-03-19T19:20:43+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+
+[ 2015-03-19T19:20:45+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+
+[ 2015-03-19T19:20:45+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-19T19:20:50+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+
+[ 2015-03-19T19:20:52+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+
+[ 2015-03-19T19:20:52+08:00 ] ::1 /1/index.php/Home/Index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002160s ]
+
+[ 2015-03-19T19:20:54+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-03-19T19:20:54+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2015-03-19T19:20:56+08:00 ] ::1 /1/index.php/Home/Pro/comGood.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+
+[ 2015-03-19T19:20:59+08:00 ] ::1 /1/index.php/Home/Pro/delete/id/58.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+
+[ 2015-03-19T19:21:00+08:00 ] ::1 /1/index.php/Home/Pro/comGood.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+
+[ 2015-03-19T19:21:44+08:00 ] ::1 /1/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+
+[ 2015-03-19T19:21:44+08:00 ] ::1 /1/index.php/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+
+[ 2015-03-19T19:22:10+08:00 ] ::1 /1/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+
+[ 2015-03-19T19:22:10+08:00 ] ::1 /1/index.php/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+
+[ 2015-03-19T19:22:50+08:00 ] ::1 /1/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+
+[ 2015-03-19T19:22:50+08:00 ] ::1 /1/index.php/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+
+[ 2015-03-19T19:23:08+08:00 ] ::1 /1/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+
+[ 2015-03-19T19:23:10+08:00 ] ::1 /1/index.php/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001911s ]
+
+[ 2015-03-19T19:24:29+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-03-19T19:26:43+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+
+[ 2015-03-19T19:26:43+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002064s ]
+
+[ 2015-03-19T19:26:45+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+
+[ 2015-03-19T19:26:59+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001737s ]
+
+[ 2015-03-19T19:27:12+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+
+[ 2015-03-19T19:27:27+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+
+[ 2015-03-19T19:27:43+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001901s ]
+
+[ 2015-03-19T19:49:27+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+
+[ 2015-03-19T19:49:56+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001946s ]
+
+[ 2015-03-19T19:50:31+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+
+[ 2015-03-19T19:50:43+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+
+[ 2015-03-19T19:51:06+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+
+[ 2015-03-19T19:52:04+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+
+[ 2015-03-19T19:52:47+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2015-03-19T19:52:50+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002493s ]
+
+[ 2015-03-19T19:53:26+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+
+[ 2015-03-19T19:55:06+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+
+[ 2015-03-19T19:55:07+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+
+[ 2015-03-19T19:55:09+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+
+[ 2015-03-19T19:55:33+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+
+[ 2015-03-19T19:55:33+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:55:33+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:55:33+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002599s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:56:56+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2015-03-19T19:56:57+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001671s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:56:57+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:56:57+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001837s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:10+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2015-03-19T19:58:11+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:11+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:11+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000276s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005441s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:50+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+
+[ 2015-03-19T19:58:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001684s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:58:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009937s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:59:42+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+
+[ 2015-03-19T19:59:42+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:59:42+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001760s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T19:59:42+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002558s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:06+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+
+[ 2015-03-19T20:00:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001730s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001689s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:26+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+
+[ 2015-03-19T20:00:26+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:26+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:27+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001978s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:54+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-03-19T20:00:54+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:55+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002634s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:00:55+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004153s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:06+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003004s ]
+
+[ 2015-03-19T20:01:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001966s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001583s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:25+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+
+[ 2015-03-19T20:01:25+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001755s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:25+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001747s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:25+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002041s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:50+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2015-03-19T20:01:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:01:50+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004423s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:07+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+
+[ 2015-03-19T20:02:07+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001540s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:07+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:07+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001761s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:40+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001473s ]
+
+[ 2015-03-19T20:02:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001841s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:02:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001717s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:03:45+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-03-19T20:03:46+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:03:46+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:03:46+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008770s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:23:35+08:00 ] ::1 /1/index.php/Home/Publish/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+
+[ 2015-03-19T20:23:37+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001701s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:23:37+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001717s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:23:37+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001615s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:24:06+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001665s ]
+
+[ 2015-03-19T20:24:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001623s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:24:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001687s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:24:06+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001813s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:08+08:00 ] ::1 /1/index.php/Home/Publish/do_publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+
+[ 2015-03-19T20:26:21+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:21+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005295s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:21+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:24+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+
+[ 2015-03-19T20:26:24+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:24+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001803s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:24+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001738s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:28+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2015-03-19T20:26:28+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001831s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:28+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:28+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:31+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002013s ]
+
+[ 2015-03-19T20:26:31+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:31+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002190s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:26:31+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:42+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001732s ]
+
+[ 2015-03-19T20:27:43+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:43+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:43+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:52+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+
+[ 2015-03-19T20:27:52+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001693s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:52+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002975s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:27:52+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001665s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:04+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001814s ]
+
+[ 2015-03-19T20:28:05+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001678s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:05+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:05+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:52+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+
+[ 2015-03-19T20:28:53+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001503s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:53+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:28:53+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:20+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+
+[ 2015-03-19T20:29:20+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:20+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:20+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001727s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:35+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+
+[ 2015-03-19T20:29:36+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:36+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:29:36+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:40:27+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+
+[ 2015-03-19T20:40:27+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:40:27+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003246s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:40:27+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:48:49+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+
+[ 2015-03-19T20:48:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001789s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:48:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:48:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002063s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:01+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+
+[ 2015-03-19T20:53:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004469s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002382s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:18+08:00 ] ::1 /1/index.php/Home/Publish/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+
+[ 2015-03-19T20:53:19+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:19+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001709s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T20:53:19+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T22:57:42+08:00 ] ::1 /1/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2015-03-19T22:57:42+08:00 ] ::1 /1/index.php/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002056s ]
+
+[ 2015-03-19T22:57:44+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+
+[ 2015-03-19T22:57:44+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2015-03-19T22:57:46+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+
+[ 2015-03-19T22:57:48+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+
+[ 2015-03-19T22:57:49+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+
+[ 2015-03-19T22:57:52+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002804s ]
+
+[ 2015-03-19T22:57:59+08:00 ] ::1 /1/index.php/Home/Publish/Publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002139s ]
+
+[ 2015-03-19T22:57:59+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002839s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T22:57:59+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001738s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T22:57:59+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:04:37+08:00 ] ::1 /1/index.php/Home/Publish/Publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+
+[ 2015-03-19T23:04:49+08:00 ] ::1 /1/index.php/Home/Publish/Publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003822s ]
+
+[ 2015-03-19T23:04:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004367s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:04:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:04:49+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001567s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:06:39+08:00 ] ::1 /1/index.php/Home/Publish/Publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002824s ]
+
+[ 2015-03-19T23:06:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:06:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:06:40+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:01+08:00 ] ::1 /1/index.php/Home/Publish/Publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001849s ]
+
+[ 2015-03-19T23:07:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:01+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002471s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:12+08:00 ] ::1 /1/index.php/Home/Publish/Publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+
+[ 2015-03-19T23:07:12+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001718s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:12+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:12+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001867s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:07:28+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:09:46+08:00 ] ::1 /1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+
+[ 2015-03-19T23:09:48+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+
+[ 2015-03-19T23:09:48+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+
+[ 2015-03-19T23:09:50+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002422s ]
+
+[ 2015-03-19T23:10:31+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2015-03-19T23:10:31+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+
+[ 2015-03-19T23:10:31+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+
+[ 2015-03-19T23:10:34+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002081s ]
+
+[ 2015-03-19T23:10:34+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+
+[ 2015-03-19T23:11:09+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-03-19T23:11:09+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+
+[ 2015-03-19T23:18:12+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+
+[ 2015-03-19T23:22:14+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002080s ]
+
+[ 2015-03-19T23:23:05+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002180s ]
+
+[ 2015-03-19T23:23:29+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+
+[ 2015-03-19T23:24:56+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+
+[ 2015-03-19T23:25:41+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002802s ]
+
+[ 2015-03-19T23:26:07+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+
+[ 2015-03-19T23:29:34+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+
+[ 2015-03-19T23:29:52+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001631s ]
+
+[ 2015-03-19T23:30:16+08:00 ] ::1 /1/index.php/Home/Publish/Publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+
+[ 2015-03-19T23:30:17+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001685s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:30:17+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003112s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:30:17+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001735s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:30:37+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002776s ]
+
+[ 2015-03-19T23:31:38+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002669s ]
+
+[ 2015-03-19T23:34:19+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001854s ]
+
+[ 2015-03-19T23:34:36+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+
+[ 2015-03-19T23:34:36+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001682s ]
+
+[ 2015-03-19T23:34:37+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+
+[ 2015-03-19T23:35:44+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003208s ]
+
+[ 2015-03-19T23:35:44+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+
+[ 2015-03-19T23:35:45+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001949s ]
+
+[ 2015-03-19T23:40:09+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001859s ]
+
+[ 2015-03-19T23:40:10+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+
+[ 2015-03-19T23:40:19+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001927s ]
+
+[ 2015-03-19T23:40:19+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+
+[ 2015-03-19T23:40:21+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001254s ]
+
+[ 2015-03-19T23:40:21+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+
+[ 2015-03-19T23:40:22+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005174s ]
+
+[ 2015-03-19T23:41:02+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2015-03-19T23:43:17+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-03-19T23:43:17+08:00 ] ::1 /1/index.php/Home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2015-03-19T23:43:18+08:00 ] ::1 /1/index.php/Home/index/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001716s ]
+
+[ 2015-03-19T23:47:44+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-03-19T23:47:57+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+
+[ 2015-03-19T23:48:22+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+
+[ 2015-03-19T23:48:57+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+
+[ 2015-03-19T23:51:02+08:00 ] ::1 /1/index.php/Home/Publish/Publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+
+[ 2015-03-19T23:51:02+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000369s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001974s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:51:03+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote-zh-CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:51:03+08:00 ] ::1 /1/index.php/Home/Publish/__PUBLIC/editor/summernote.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+ERR: 非法操作:__PUBLIC
+
+[ 2015-03-19T23:51:18+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+
+[ 2015-03-19T23:57:16+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002055s ]
+
+[ 2015-03-19T23:57:41+08:00 ] ::1 /1/index.php/Home/Publish/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+

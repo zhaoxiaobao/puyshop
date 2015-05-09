@@ -1,0 +1,38 @@
+<include file="Public/header"   title="登录"/>
+<div class="content login-box">
+	<div class="login-main">
+		<div class="wrap">
+			<h1>登录或创建一个账号</h1>
+			<div class="login-left">
+				<h3>新用户</h3>
+				<p>通过在本商店创建的账户，您将能够在本商店享受购物的快感。</p>
+				<a class="acount-btn" href="{:U('Register/index')}">创建一个账户</a>
+			</div>
+			<div class="login-right">
+				<h3>注册用户</h3>
+				<p class="tip">如果已有账户，请直接登录。</p>
+				<form  action="{:U('Login/login')}" method="post" id="frmV">
+					<div>
+						<span>用户名<label>*</label></span>
+						<input type="text"   name="user"  title="请输入您的用户名（至少 3 个字符）" required minlength="300"> 
+					</div>
+					<div>
+						<span>密码<label>*</label></span>
+						<input type="password" name="password" title="请输入您的密码，5 - 12 个字符" required minlength="5"> 
+					</div>
+					<a class="forgot" href="#">忘记密码</a>
+					<input type="submit" value="登录" />
+				</form>
+			</div>
+			<div class="clear"> </div>
+		</div>
+	</div>
+</div>
+<div class="clear"> </div>
+<script type="text/javascript">
+  $(function () {
+                $("#frmV").validate()
+                })；
+</script>
+<include file="Public/footer"/>
+

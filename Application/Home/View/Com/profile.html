@@ -1,0 +1,97 @@
+<include file="Public/header"  title="卖家中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>商家管理</h3>
+				<ul>
+
+					
+					<li><a href="{:U('Com/index')}" >基本信息</a></li>
+					<li><a href="{:U('Com/profile')}" style="color: #E45D5D;">店铺管理</a></li>
+					<li><a href="{:U('Publish/index')}">发布商品</a></li>
+					<li><a href="{:U('Pro/admin')}">管理商品</a></li>
+					<li><a href="{:U('Com/znxlist')}">站内信</a></li>
+
+
+					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>店铺信息</h3>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+				<form action="{:U('Com/do_profile')}" method="post" id="sb">
+					<div class="login-left profile">
+						<h3>店铺名称：</h3>
+						<input type="text" name="mall_name" value="{$mau.mall_name}"> 
+						<h3>店铺类别：</h3>
+						
+						<select name="class" id="class-sel">
+							<volist name="mclass" id="data">
+								<option value="{$data.id}">{$data.name}</option>
+								
+
+							</volist>
+							
+
+						</select>
+						<script type="text/javascript">
+
+							
+							$('#class-sel').val('{$mau.class}');
+
+
+
+						</script>
+						<h3>店铺简介：</h3>
+						<textarea name="info" id="" cols="30" rows="8" class="textarea"  value="">{$mau.info}
+							
+
+						</textarea>
+						<h3>联系地址：</h3>
+						<textarea name="address" id="" cols="30" rows="4" class="textarea"  value="">{$mau.address}
+							
+
+						</textarea>
+						<h3>联系人：</h3>
+						<input type="text" name="contact_name" value="{$mau.contact_name}">
+
+						<h3>联系电话：</h3>
+						<input type="text" name="contact_tel" value="{$muser.mobile}"> 
+
+						<h3>支付宝账号：</h3>
+						<input type="text" name="zfb" value="{$muser.zfb}"> 
+						<p></p>
+
+						<a href="javascript:sb()" class="acount-btn">保存</a>
+						<script type="text/javascript">
+
+							function sb (argument) {
+								$("#sb").submit();
+							}
+
+
+						</script>
+
+					</div>
+				</form>
+
+				
+
+
+				<div class="clear"> </div>
+			</div>
+			<div class="loadmore-products">
+				
+			</div>
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+<include file="Public/footer"/>

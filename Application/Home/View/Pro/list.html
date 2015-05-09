@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+	<volist name="list" id="data">
+		<br>{$data.title}|{$data.add_time}|
+		<a href="{:U('Pro/delete',array('id'=>$data['id']))}">删除</a>
+		|<a href="{:U('Pro/edit',array('id'=>$data['id']))}">编辑</a>
+
+	</volist>
+	
+</body>
+</html>

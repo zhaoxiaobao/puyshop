@@ -1,0 +1,208 @@
+[ 2015-04-17T20:54:21+08:00 ] 127.0.0.1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025786s ]
+
+[ 2015-04-17T20:54:24+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-04-17T20:54:24+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-04-17T20:54:25+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000335s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.055641s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000727s ]
+
+[ 2015-04-17T21:20:19+08:00 ] 127.0.0.1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2015-04-17T21:20:20+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2015-04-17T21:20:21+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-04-17T21:20:21+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002779s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.001159s ]
+
+[ 2015-04-17T21:20:55+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2015-04-17T21:28:37+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-04-17T21:31:11+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2015-04-17T21:32:30+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/144.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+
+[ 2015-04-17T21:32:30+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-04-17T21:32:31+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002970s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 144 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000525s ]
+
+[ 2015-04-17T22:06:21+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011780s ]
+
+[ 2015-04-17T22:06:21+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-04-17T22:06:22+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.003041s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000843s ]
+
+[ 2015-04-17T22:07:20+08:00 ] 127.0.0.1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2015-04-17T22:07:20+08:00 ] 127.0.0.1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 非法操作:css
+
+[ 2015-04-17T22:07:20+08:00 ] 127.0.0.1 /1/index.php/Home/Index/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 非法操作:css
+
+[ 2015-04-17T22:07:20+08:00 ] 127.0.0.1 /1/index.php/Home/Index/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 非法操作:js
+
+[ 2015-04-17T22:07:29+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2015-04-17T22:07:30+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-04-17T22:07:30+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2015-04-17T22:07:30+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2015-04-17T22:07:32+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-04-17T22:07:32+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-04-17T22:07:32+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-04-17T22:07:32+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-04-17T22:07:34+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2015-04-17T22:07:34+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2015-04-17T22:07:34+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+
+[ 2015-04-17T22:07:34+08:00 ] 127.0.0.1 /1/index.php/Home/Index/clist/gclass/css/jstarbox.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002805s ]
+
+[ 2015-04-17T22:07:35+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2015-04-17T22:07:35+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2015-04-17T22:07:35+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.003512s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000702s ]
+

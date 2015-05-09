@@ -1,0 +1,213 @@
+<include file="Public/header" title="编辑商品"/>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/zh-cn.js"></script>
+<form id="form-fb" role="form" method="post" action="{:U('Pro/do_edit')}" enctype="multipart/form-data" >
+  <div class="content details-page">
+  <!---start-product-details--->
+      <div class="product-details">
+        <div class="wrap">
+          <ul class="product-head">
+            <li><a href="{:U(Index/index)}">首页</a> <span>::</span></li>
+            <li class="active-page"><a href="#">编辑商品</a></li>
+            <div class="clear"> </div>
+          </ul>
+        <!----details-product-slider--->
+        <!-- Include the Etalage files -->
+
+
+
+        <link rel="stylesheet" href="__PUBLIC__/nick/css/etalage.css">
+        <script src="__PUBLIC__/nick/js/jquery.etalage.min.js"></script>
+        <script>
+         jQuery(document).ready(function($){
+
+          $('#etalage').etalage({
+           thumb_image_width: 300,
+           thumb_image_height: 400,
+           source_image_width: 900,
+           source_image_height: 1000,
+           show_hint: true,
+           click_callback: function(image_anchor, instance_id){
+            alert('Callback example:\nYou clicked on an image with the anchor: "'+image_anchor+'"\n(in Etalage instance: "'+instance_id+'")');
+          }
+        });
+							$('.dropdownlist').change(function(){
+								etalage_show( $(this).find('option:selected').attr('class') );
+							});
+
+						});
+       </script>
+       <script>
+
+
+        function readFile(obj,id){ 
+          var file = obj.files[0];    
+                                //判断类型是不是图片
+                                if(!/image\/\w+/.test(file.type)){   
+                                  alert("请确保文件为图像类型"); 
+                                  return false; 
+                                } 
+                                var reader = new FileReader(); 
+                                reader.readAsDataURL(file); 
+                                reader.onload = function(e){ 
+                                    $('<li class="etalage_thumb thumb_1"><img class="etalage_thumb_image" src="'+this.result+'" /><img class="etalage_source_image" src="'+this.result+'" /><input type="hidden" name="fmimg[]" value="'+this.result+'"></li>').prependTo('.pub-imgadd');
+
+                                  } 
+                                } 
+
+
+                              </script>
+                              <style type="text/css">
+
+                               #picfile {
+                                position: absolute;
+                                opacity: 0;
+                                filter: alpha(opacity=0);
+                                display: block;
+                                width: 100%;
+                                height: 100%;
+                                left: 0;
+                                top: 0;
+                                right: 0;
+                                bottom: 0;
+                                cursor: pointer;
+                                z-index: 1;
+                              }
+
+
+                            </style>
+
+
+                            
+
+
+
+                            <div class="details-left">
+                             <div class="details-left-slider">
+                              <ul id="etalage" class="pub-imgadd">
+
+
+
+
+                                <li>
+
+                                  <img class="etalage_thumb_image" src="__PUBLIC__/nick/images/upload.jpg" />
+                                  <img class="etalage_source_image" src="__PUBLIC__/nick/images/upload.jpg" />
+                                  <input type="file" id="picfile" onchange="readFile(this,1)" />
+
+                                </li>
+
+
+              <volist name="pic" id="data">
+
+                <li>
+                  <img class="etalage_thumb_image" src="{$data.url}" />
+                  <img class="etalage_source_image" src="{$data.url}" />
+                </li>
+
+              </volist>
+
+
+                              </ul>
+                            </div>
+                            <div class="details-left-info">
+                              <div class="details-right-head">
+                               <h1>商品标题<input type="text"name="title" value="{$Info.title}" ></h1>
+
+
+
+                               
+                               <input type="hidden" name="goodid" value="<?php echo(I('get.id')) ; ?>" >
+
+
+                               <h1>商品价格<input name="price" type="text" class="form-control" value="{$Info.m_price}" >
+                               </h1>
+
+                               <h1>商品类别
+                                <select name="gclass" id="g-class">
+                                  <foreach name="gclass" item="vo">
+                                    <option value="{$vo.id}">{$vo.name}</option>
+                                  </foreach>
+                                </select>
+                                <script type="text/javascript">
+                                var gclass={$Info.gclass};
+                                $('#g-class').val(gclass);
+
+
+                                </script>
+                              </h1>
+
+                              <h1>商品库存
+                                <input name="kucun" type="text" class="form-control ml-20" value="{$Info.count}" >
+                              </h1>
+
+                              
+                              <h1>商品关键字
+                                <input name="keywords" type="text" class="form-control" value="{$Info.keywords}" >
+                              </h1>
+
+
+
+                              <p class="product-detail-info">请勿发布虚假商品信息！ </p>
+
+                            </div>
+                          </div>
+                          <div class="clear"> </div>
+                        </div>
+
+                         <div class="clear"> </div>
+
+                       </div>
+
+
+                       <div class="product-reviwes">
+                        <div class="wrap">
+                         <script id="editor" type="text/plain" name="content" style="height:500px;margin-bottom:20px;width:100%"></script>
+    <script>
+            var ue = UE.getEditor('editor',{
+                serverUrl :'{:U('Home/Web/ueditor')}'
+            });
+    </script>
+                
+                         <div class="loadmore-products">
+                           <a href="javascript:fb()"  class="a-fb">发布商品</a>
+                         </div>
+
+                         <script type="text/javascript">
+                          function fb(){
+                            $("#form-fb").submit();
+                          }
+                          function setContent(isAppendTo) {
+                            UE.getEditor('editor').setContent('{$des}', isAppendTo);
+                          }
+                          the_timeout=setTimeout("setContent()",1000);
+                          the_timeout1=setTimeout("clearTimeout(the_timeout)",2000);
+                           clearTimeout(the_timeout1);
+
+                        </script>
+
+
+                      </div>
+
+
+
+
+
+                    </div>
+
+  <script type="text/javascript">
+
+$(document).ready(function() {
+
+ function setContent(isAppendTo) {
+                            UE.getEditor('editor').setContent('{$des}', isAppendTo);
+           }       
+});
+</script>
+
+
+</div>
+</form>
+
+<include file="Public/footer"/>

@@ -1,0 +1,55 @@
+
+<include file="Public/header" title="注册"/>
+<div class="content login-box">
+			<div class="login-main">
+				<div class="wrap">
+					<h1>创建一个账户</h1>
+					<div class="register-grids">
+						<form action="{:U('Register/userReg')}" method="post">
+								<div class="register-top-grid">
+										<h3>个人信息</h3>
+										<div>
+											<span>用户名<label>*</label></span>
+											<input type="text" required name="user" required minlength="3" title="请输入您的用户名"> 
+										</div>
+										<div>
+											<span>手机号<label>*</label></span>
+											<input type="text" required name="phone" > 
+										</div>
+										<div>
+											<span>邮箱<label>*</label></span>
+											<input type="text" required name="mail"> 
+										</div>
+										<div class="clear"> </div>
+											<a class="news-letter" href="#">
+											<p><input type="radio" name="type" value="2" />卖家
+    <input type="radio" name="type" value="1" /> 买家</p>
+			
+											</a>
+										<div class="clear"> </div>
+								</div>
+								<div class="clear"> </div>
+								<div class="register-bottom-grid">
+										<h3>注册信息</h3>
+										<div>
+											<span>密码<label>*</label></span>
+											<input type="password" name="password" required>
+										</div>
+										<div>
+											<span>确认密码<label>*</label></span>
+											<input type="password" name="repassword" required>
+										</div>
+										<div class="clear"> </div>
+								</div>
+								<div class="clear"> </div>
+								<input type="submit" value="提交" />
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+<div class="clear"> </div>
+<script src="http://jquery.bassistance.de/validate/jquery.validate.js"></script>
+
+<include file="Public/footer"/>
+

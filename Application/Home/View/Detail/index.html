@@ -1,0 +1,303 @@
+<include file="Public/header"  title="{$Info['title']}"/>
+<div class="content details-page">
+
+	<div class="product-details">
+		<div class="wrap">
+			<ul class="product-head">
+				<li><a href="#">主页</a> <span>::</span></li>
+				<li class="active-page"><a href="#">产品页</a></li>
+				<div class="clear"> </div>
+			</ul>
+			<link rel="stylesheet" href="__PUBLIC__/nick/css/etalage.css">
+			<script src="__PUBLIC__/nick/js/jquery.etalage.min.js"></script>
+			<script>
+				jQuery(document).ready(function($){
+					$('#etalage').etalage({
+						thumb_image_width: 300,
+						thumb_image_height: 400,
+						source_image_width: 900,
+						source_image_height: 1000,
+						show_hint: true,
+						click_callback: function(image_anchor, instance_id){
+							alert('Callback example:\nYou clicked on an image with the anchor: "'+image_anchor+'"\n(in Etalage instance: "'+instance_id+'")');
+						}
+					});
+					$('.dropdownlist').change(function(){
+						etalage_show( $(this).find('option:selected').attr('class') );
+					});
+				});
+			</script>
+			<div class="details-left">
+				<div class="details-left-slider">
+					<ul id="etalage">
+						<volist name="pic" id="data">
+							<li>
+								<img class="etalage_thumb_image" src="{$data.url}" />
+								<img class="etalage_source_image" src="{$data.url}" />
+							</li>
+						</volist>
+					</ul>
+				</div>
+				<div class="details-left-info">
+					<div class="details-right-head">
+						<h1>{$Info['title']}</h1>
+						<div class="product-more-details">
+							<ul class="price-avl">
+								<li class="price">
+									<label>优惠价：{$Info['m_price']}元</label>
+
+
+								</li>
+
+
+
+
+								<li class="stock"><i>[热销中]</i></li>
+
+								<div class="clear"> </div>
+							</ul>
+
+							<eq name="follow" value="false">
+								<input type="button" value="   收 藏   " id="sc-btn" />
+								<else/>
+								<input type="button" value="   已收藏   "  />
+
+							</eq>
+
+							<script type="text/javascript">
+								$('#sc-btn').click(function() {
+					// body...
+					var id={$Think.get.id};
+					// alert();
+					$.post("{:U('Stu/follow')}",{good_id:id,status:"true"},
+						function(data){
+						// body...
+						// alert(data.id);
+						$('#sc-btn').val('   已收藏   ');
+					},'json');
+				});
+
+
+							</script>
+							<ul class="product-share">
+								<h3>分享</h3>
+								<ul>
+									<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+									<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+								</ul>
+							</ul>
+
+
+						</div>
+					</div>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="details-right">
+				<div class="utuan_shopinfo border_grey">
+					<h3 class="yahei fw_b">商家信息</h3>
+					<ul class="shop_info_list">
+						<li><label class="fl">店铺：</label><span class="fl text_hide shop_name">{$shopInfo.mall_name}</span></li>
+						<li><label>商品数(件)：</label>{$count}</li>
+						<li><label>联系人：</label>{$shopInfo.contact_name}</li>
+						<li><label>联系电话：</label>{$shopInfo1.mobile}</li>
+						<li><label class="fl">所在地：</label><span class="text_hide fl shop_info_addr">{$shopInfo.address}</span></li>
+					</ul>
+					<a class="btn_flat1 btn_shop_add follow_shop" uid="12egl1q" href="{:U('Msg/znx',array('mall_id'=>$shopInfo['mall_id']))}">站内联系</a>
+					<!-- </div> -->
+				</div>
+				<style type="text/css">
+					.utuan_shopinfo{
+						text-align: left;
+					}
+					.utuan_shopinfo h3 {
+						height: 45px;
+						line-height: 45px;
+						background-color: #f8f8f8;
+						font-size: 20px;
+						color: #333;
+						font-weight: bold;
+						padding-left: 0px;
+					}
+					.utuan_shopinfo .shop_info_list {
+						padding-left: 15px;
+						padding-top: 7px;
+					}
+					.utuan_shopinfo .shop_info_list li {
+						height: 26px;
+						line-height: 26px;
+						padding-top: 6px;
+						color: #666;
+					}
+					.utuan_shopinfo label {
+						color: #999;
+					}
+					.utuan_shopinfo .shop_info_list li .text_hide {
+						color: #666;
+					}
+					.utuan_shopinfo .shop_name {
+						width: 145px;
+						color: #666;
+					}
+				</style>
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<!----product-rewies---->
+		<div class="product-reviwes">
+			<div class="wrap">
+				<script src="__PUBLIC__/nick/js/easyResponsiveTabs.js" type="text/javascript"></script>
+				<script type="text/javascript">
+					$(document).ready(function () {
+						$('#horizontalTab').easyResponsiveTabs({
+									type: 'default', //Types: default, vertical, accordion           
+									width: 'auto', //auto or any width like 600px
+									fit: true,   // 100% fit in a container
+									closed: 'accordion', // Start closed if in accordion view
+									activate: function(event) { // Callback function if tab is switched
+										var $tab = $(this);
+										var $info = $('#tabInfo');
+										var $name = $('span', $info);
+										$name.text($tab.text());
+										$info.show();
+									}
+								});
+						$('#verticalTab').easyResponsiveTabs({
+							type: 'vertical',
+							width: 'auto',
+							fit: true
+						});
+					});
+				</script>
+
+				<div id="verticalTab">
+					<ul class="resp-tabs-list">
+						<li>商品详情</li>
+						<li>商品留言</li>
+					</ul>
+					<div class="resp-tabs-container vertical-tabs">
+						<div>
+							<h3> 商品详情</h3>
+							{$des}
+						</div>
+						<div>
+							<h3>商品留言</h3>
+							<table class="table table-condensed ">
+								<thead>
+									<tr>
+
+										<th width="80%">留言内容</th>
+										<th>留言者</th>
+									</tr>
+								</thead>
+								<tbody>
+									<volist name="listMCom" id="data">
+										<tr>
+											<th scope="row">
+
+												{$data.content}
+
+											</th>
+											<td>
+												{$data.nickname}
+											</td>
+
+
+										</tr>
+									</volist>
+								</tbody>
+							</table>								
+							<h4>添加留言:</h4>
+							<form method="post" action="{:U('Pro/comment')}">
+								<input type="hidden" value="{$Think.get.id}" name="id" class ="id">
+								<textarea name="content" id="" cols="50" rows="10" class="vertical-tabs-textarea">
+								</textarea>
+								<input type="submit" value="添加"/>
+							</form>
+
+
+							<script type="text/javascript">
+								$(document).ready(function() {
+								    	// body...
+								//     	$.post("{:U('Pro/commentAjax')}",{id:$('.id').val()},function(data){
+								//     	   $.each(data,function(i,item){
+								//     			  $('.comment-div').append('<td>'+item.nickname+'</td>
+								// <td>'+item.content+'</td>');
+								//     			});
+								//     	},'json');
+								//     });
+</script>
+</div>
+
+</div>
+</div>
+<div class="clear"> </div>
+
+<div class="similar-products">
+	<div class="similar-products-left">
+		<h3>相似产品</h3>
+		<p>看看本店的其他相似产品</p>
+	</div>
+	<div class="similar-products-right">
+		<script>
+			$(document).ready(function() {
+
+				$("#owl-demo").owlCarousel({
+					items : 3,
+					lazyLoad : true,
+					autoPlay : true,
+					navigation : true,
+					navigationText : ["",""],
+					rewindNav : false,
+					scrollPerPage : false,
+					pagination : false,
+					paginationNumbers: false,
+				});
+			});
+		</script>
+		<div id="owl-demo" class="owl-carousel">
+			<volist name="Info2" id="data">
+				<div class="item" onclick="location.href='{:U('Detail/detail_good',array('id'=>$data['id']))}';">
+					<div class="product-grid fade sproduct-grid">
+						<div class="product-pic">
+							<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">
+								<?php 
+								$where['goodid']=$data['id'];
+								$gpic = M('gpic');
+								$pic = $gpic->where($where)->find();
+								echo('<img src="'.$pic['url'].'" />');
+								?>
+							</a>
+							<p>
+
+								<span><?php  echo(chinesesubstr($data['title'],0,45)); ?>...</span>
+							</p>
+						</div>
+						<div class="product-info">
+							<div class="product-info-cust">
+								<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">优惠价</a>
+							</div>
+							<div class="product-info-price">
+								<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">{$data.m_price}元</a>
+							</div>
+							<div class="clear"> </div>
+						</div>
+						<div class="more-product-info">
+							<span> </span>
+						</div>
+					</div>
+				</div>
+			</volist>
+		</div>
+
+	</div>
+	<div class="clear"> </div>
+</div>
+
+</div>
+</div>
+<div class="clear"> </div>
+
+</div>
+</div>
+<include file="Public/footer"/>

@@ -1,0 +1,62 @@
+<include file="Public/header"  title="个人中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>个人中心</h3>
+				<ul>
+
+					
+					<li><a href="{:U('Stu/index')}" style="color: #E45D5D;">基本信息</a></li>
+					<li><a href="{:U('Stu/stufile')}">资料管理</a></li>
+					<li><a href="{:U('Stu/followlist')}">我的收藏</a></li>
+					<li><a href="{:U('Stu/msglist')}">我的留言</a></li>
+					<li><a href="{:U('Stu/znxlist')}">站内信</a></li>
+
+
+					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>基本信息</h3>
+				</div>
+				<div class="product-box-head-right">
+					<ul>
+			<!-- 			<li><span>排序 ::</span><a href=""></a></li>
+						<li><label> </label> <a href="#"> 最新发布</a></li>
+						<li><label> </label> <a href="#"> 折扣率 </a></li>
+						<li><label> </label> <a href="#"> 最受欢迎</a></li>
+						<li><span>价格 ::</span><a href="#">升序 降序</a></li> -->
+					</ul>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+				<div class="login-left">
+					<h3>欢迎你：{$user.nickname}</h3>
+					<p>您的上一次登录时间：{$user.last_login_time}</p>
+					<p>联系电话：{$user.mobile}</p>
+					<p>支付宝账号：{$user.zfb}</p>
+					<a href="{:U('Stu/file')}" class="acount-btn">编辑</a>
+					<!-- <br/> -->
+					<p>首次登录请到资料管理填写资料!</p>
+
+				</div>
+
+
+				<div class="clear"> </div>
+			</div>
+			<!----start-load-more-products---->
+			<div class="loadmore-products">
+				
+			</div>
+			<!----//End-load-more-products---->
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+<include file="Public/footer"/>

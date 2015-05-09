@@ -1,0 +1,72 @@
+<include file="Public/header"  title="卖家中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>商家管理</h3>
+				<ul>
+					<li><a href="{:U('Com/index')}" >基本信息</a></li>
+					<li><a href="{:U('Com/profile')}">店铺管理</a></li>
+					<li><a href="{:U('Publish/index')}">发布商品</a></li>
+					<li><a href="{:U('Pro/admin')}">管理商品</a></li>
+					<li><a href="{:U('Com/znxlist')}" style="color: #E45D5D;">站内信</a></li>
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>站内信</h3>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+				<table class="table table-condensed ">
+					<thead>
+						<tr>
+							<th>发信人</th>
+							<th width="50%">内容</th>
+							<th>状态</th>
+							<th>时间</th>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<volist name="Info" id="data">
+							<tr>
+								<th scope="row">
+
+									<?php 
+									echo(getname($data['send_id']));
+									?></th>
+									<td>{$data.msg_text}</td>
+									<td>
+										<if condition="($data['status'] eq 0)">
+
+											未读
+											<else/>
+											已读
+
+										</if>
+
+									</td><td>
+									{$data.add_time}
+
+								</td>
+								<td>
+
+									<a href="{:U('Msg/msgred',array('id'=>$data['id']))}">设为已读</a>|
+									<a href="{:U('Msg/reply',array('id'=>$data['send_id']))}">回复</a>|<a href="{:U('Msg/msgdel',array('id'=>$data['id']))}">删除</a></td>
+
+								</tr>
+							</volist>
+						</tbody>
+					</table>
+					<div class="clear"> </div>
+				</div>
+			</div>
+			<div class="clear"> </div>
+		</div>
+	</div>
+	<include file="Public/footer"/>

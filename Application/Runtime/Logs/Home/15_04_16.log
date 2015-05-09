@@ -1,0 +1,96 @@
+[ 2015-04-16T22:08:08+08:00 ] 127.0.0.1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013115s ]
+
+[ 2015-04-16T22:12:44+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2015-04-16T22:12:44+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+
+[ 2015-04-16T22:12:45+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.078662s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000686s ]
+
+[ 2015-04-16T22:26:11+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2015-04-16T22:26:11+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-04-16T22:26:11+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.008687s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.002899s ]
+
+[ 2015-04-16T22:47:47+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-04-16T22:51:49+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/145.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+
+[ 2015-04-16T22:51:49+08:00 ] 127.0.0.1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+
+[ 2015-04-16T22:51:49+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.005631s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000917s ]
+
+[ 2015-04-16T23:02:17+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/comment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-04-16T23:02:17+08:00 ] 127.0.0.1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-04-16T23:02:18+08:00 ] 127.0.0.1 /1/index.php/Home/Login/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 非法操作:css
+
+[ 2015-04-16T23:02:28+08:00 ] 127.0.0.1 /1/index.php/Home/Pro/commentAjax.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002865s ]
+SQL: SELECT * FROM `comment` WHERE `good_id` = 145 ORDER BY add_time desc LIMIT 8   [ RunTime:0.000622s ]
+

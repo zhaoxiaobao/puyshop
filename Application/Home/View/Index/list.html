@@ -1,0 +1,86 @@
+<include file="Public/header"  title="搜索"/>
+<script type="text/javascript">
+	
+
+	$("#keyword").val('{$keyword}');
+</script>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>商品类别</h3>
+				<ul>
+
+					<volist  name='gclass'  id="data">
+						<li><a href="{:U('Index/clist',array('gclass'=>$data['id']))}">{$data.name}</a></li>
+
+
+					</volist>
+				</ul>
+			</div>
+			<div class="content-left-top-grid">
+
+			</div>
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>共有商品 <span>({$count})</span>件</h3>
+				</div>
+				<div class="product-box-head-right">
+					<ul>
+					<li><span>排序 ::</span><a href="#"> </a></li>
+						<li><label> </label> <a href="{:U('Index/Search')}">综合排序</a></li>
+						<li><label> </label> <a href="{:U('Index/sort')}">价格排序</a></li>
+
+					</ul>
+				</div>
+
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+				<volist name="Info" id="data">
+					<div onClick="{:U('Detail/detail_good',array('id'=>$data['id']))}';" class="product-grid fade">
+						<div class="product-pic">
+							<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">
+								<?php 
+								$where['goodid']=$data['id'];
+								$gpic = M('gpic');
+								$pic = $gpic->where($where)->find();
+								echo('<img src="'.$pic['url'].'" />');
+								?>
+							</a>
+							<p>
+								<span><?php  echo(chinesesubstr($data['title'],0,45)); ?>...</span>
+							</p>
+						</div>
+						<div class="product-info">
+							<div class="product-info-cust">
+								<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">优惠价</a>
+							</div>
+							<div class="product-info-price">
+								<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">{$data.m_price}元</a>
+							</div>
+							<div class="clear"> </div>
+						</div>
+						<div class="more-product-info">
+							<span> </span>
+						</div>
+					</div>
+
+				</volist>
+				<div class="clear"> </div>
+			</div>
+
+			<div class="pagination">
+				<ul>
+					<li>{$page}</li>
+				</ul>
+				
+			</div>
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+<include file="Public/footer"/>

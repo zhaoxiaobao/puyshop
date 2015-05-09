@@ -1,0 +1,71 @@
+<include file="Public/header"  title="卖家中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>商品列表</h3>
+				<ul>					
+					<li><a href="{:U('Com/index')}" >基本信息</a></li>
+					<li><a href="{:U('Com/profile')}" >店铺管理</a></li>
+					<li><a href="{:U('Publish/index')}">发布商品</a></li>
+					<li><a href="{:U('Pro/admin')}"style="color: #E45D5D;">管理商品</a></li>
+					<li><a href="{:U('Com/znxlist')}">站内信</a></li>					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>商品列表</h3>
+				</div>
+				<div class="product-box-head-right">
+					<ul>
+
+					</ul>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+				<table class="table table-condensed ">
+					<thead>
+						<tr>
+
+							<th width="85%">商品标题</th>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<volist name="list" id="data">
+							<tr>
+							
+									
+									<td>
+										<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">{$data.title}</a>
+
+									</td>
+									<td>
+
+										<a href="{:U('Detail/detail_good',array('id'=>$data['id']))}">查看</a>|
+
+										<a href="{:U('Pro/delete',array('id'=>$data['id']))}">删除</a>|
+										<a href="{:U('Pro/edit',array('id'=>$data['id']))}">编辑</a>
+
+
+									</td>
+
+								</tr>
+							</volist>
+						</tbody>
+					</table>
+
+					<div class="clear"> </div>
+				</div>
+				<div class="loadmore-products">
+
+				</div>
+			</div>
+			<div class="clear"> </div>
+		</div>
+	</div>
+	<include file="Public/footer"/>

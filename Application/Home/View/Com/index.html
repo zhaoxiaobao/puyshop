@@ -1,0 +1,51 @@
+<include file="Public/header"  title="卖家中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>商家管理</h3>
+				<ul>
+
+					
+					<li><a href="{:U('Com/index')}" style="color: #E45D5D;">基本信息</a></li>
+					<li><a href="{:U('Com/profile')}">店铺管理</a></li>
+					<li><a href="{:U('Publish/index')}">发布商品</a></li>
+					<li><a href="{:U('Pro/admin')}">管理商品</a></li>
+					<li><a href="{:U('Com/znxlist')}">站内信</a></li>
+
+
+					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>店铺信息</h3>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+				<div class="login-left">
+					<h3>店铺名称：{$mau.mall_name}</h3>
+					<p>店铺简介：{$mau.info}</p>
+					<p>联系地址：{$mau.address}</p>
+					<p>联系人：{$mau.contact_name}</p>
+					<p>联系电话：{$muser.mobile}</p>
+					<p>支付宝账号：{$muser.zfb}</p>
+					<p>首次登录请编辑完善个人信息！</p>
+					<a href="{:U('Com/profile')}" class="acount-btn">编辑</a>
+				</div>
+
+				
+				<div class="clear"> </div>
+			</div>
+			<div class="loadmore-products">
+				
+			</div>
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+<include file="Public/footer"/>

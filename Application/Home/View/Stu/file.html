@@ -1,0 +1,141 @@
+<include file="Public/header"  title="个人中心"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>个人中心</h3>
+				<ul>
+
+					
+					<li><a href="{:U('Stu/index')}" >基本信息</a></li>
+					<li><a href="{:U('Stu/stufile')}"style="color: #E45D5D;">资料管理</a></li>
+					<li><a href="{:U('Stu/followlist')}">我的收藏</a></li>
+					<li><a href="{:U('Pro/admin')}">我的留言</a></li>
+					<li><a href="{:U('Stu/znxlist')}">站内信</a></li>
+
+
+					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>资料管理</h3>
+				</div>
+				<div class="product-box-head-right">
+					<ul>
+			<!-- 			<li><span>排序 ::</span><a href=""></a></li>
+						<li><label> </label> <a href="#"> 最新发布</a></li>
+						<li><label> </label> <a href="#"> 折扣率 </a></li>
+						<li><label> </label> <a href="#"> 最受欢迎</a></li>
+						<li><span>价格 ::</span><a href="#">升序 降序</a></li> -->
+					</ul>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+				<form action="{:U('Stu/do_stufile')}" method="post" id="sb">
+
+					<div class="login-left profile">
+						<h3>用户名：</h3>
+						<input type="text" name="nickname" value="{$user1.nickname}"> 
+						<h3>出生日期：</h3>
+                  
+
+					<select name="birthdayYear" id="birthdayYear"><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option></select>&nbsp;
+					<select name="birthdayMonth" id="birthdayMonth"><option value="1">01</option><option value="2">02</option><option value="3">03</option><option value="4">04</option><option value="5">05</option><option value="6">06</option><option value="7">07</option><option value="8">08</option><option value="9">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select>&nbsp;
+					<select name="birthdayDay" id="birthdayDay"><option value="1">01</option><option value="2">02</option><option value="3">03</option><option value="4">04</option><option value="5">05</option><option value="6">06</option><option value="7">07</option><option value="8">08</option><option value="9">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select> 						
+
+
+
+				</select>
+
+				<script type="text/javascript">
+
+							Year=<?php echo(substr($user['bday'], 0,4));  ?>;
+							Month=<?php echo(substr($user['bday'], 5,2));  ?>;
+							Day=<?php echo(substr($user['bday'], 8,2));  ?>;
+						// alert(Year);
+
+						
+						$('#birthdayYear').val(Year);
+						$('#birthdayDay').val(Day);
+						$('#birthdayMonth').val(Month);
+
+
+
+					</script>
+
+
+
+				<h3>性　别：</h3>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+				<input type="radio" name="sex" value="1"  />
+				男&nbsp;&nbsp;
+				<input type="radio" name="sex" value="0"  />
+				女&nbsp;&nbsp;
+
+				<script type="text/javascript">
+
+					$(":radio").each(function(){
+						// if(this.val()=)
+						// 	$('#text1').val($(this).val());
+						// $(this).click(function(){
+						// 	if(this.checked)
+						// 		$('#text2').val($(this).val());
+
+						// alert($(this).val());
+
+						if ($(this).val()=={$user.gender}) {
+
+							$(this).attr('checked','true');
+
+
+
+						}
+
+
+						});
+
+
+					</script>
+
+
+
+					<h3>联系电话：</h3>
+					<input type="text" name="contact_tel" value="{$user1.mobile}"> 
+
+					<h3>支付宝账号：</h3>
+					<input type="text" name="zfb" value="{$user1.zfb}"> 
+					<p></p>
+
+					<a href="javascript:sb()" class="acount-btn">保存</a>
+					<script type="text/javascript">
+
+						function sb (argument) {
+						   	// body...
+						   	$("#sb").submit();
+						   }
+
+
+						</script>
+
+					</div>
+				</form>
+
+			</div>
+
+
+			<div class="clear"> </div>
+		</div>
+		<!----start-load-more-products---->
+		<div class="loadmore-products">
+
+		</div>
+		<!----//End-load-more-products---->
+	</div>
+	<div class="clear"> </div>
+</div>
+</div>
+<include file="Public/footer"/>

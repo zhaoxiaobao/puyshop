@@ -1,0 +1,98 @@
+<include file="Public/header"  title="我的收藏"/>
+<div class="content product-box-main">
+	<div class="wrap">
+		<div class="content-left">
+			<div class="content-left-top-brands">
+				<h3>个人中心</h3>
+				<ul>
+
+					
+					<li><a href="{:U('Stu/index')}">基本信息</a></li>
+					<li><a href="{:U('Stu/stufile')}">资料管理</a></li>
+					<li><a href="{:U('Stu/followlist')}" style="color: #E45D5D;">我的收藏</a></li>
+					<li><a href="{:U('Stu/msglist')}">我的留言</a></li>
+					<li><a href="{:U('Stu/znxlist')}">站内信</a></li>
+
+
+
+					
+				</ul>
+			</div>	
+		</div>
+		<div class="content-right product-box">
+			<div class="product-box-head">
+				<div class="product-box-head-left">
+					<h3>我的收藏</h3>
+				</div>
+				<div class="product-box-head-right">
+					<ul>
+	
+					</ul>
+				</div>
+				<div class="clear"> </div>
+			</div>
+			<div class="product-grids">
+
+
+				<table class="table table-condensed ">
+					<thead>
+						<tr>
+							<th width="85%">标题</th>
+							<th>操作</th>
+						</tr>
+					</thead>
+					<tbody>
+						<volist name="listM" id="data">
+							<tr>
+								<th scope="row">
+
+									<a href="{:U('Detail/detail_good',array('id'=>$data['good_id']))}">
+
+										<?php 
+										$m=M('goods');
+										$con['id']=$data['good_id'];
+								// var_dump($con['id']);
+										$listM=$m->where($con)->limit(10)->find();
+										echo($listM['title']);
+										?>
+
+									</a>
+
+
+								</th>
+								<td>
+
+									<a href="{:U('Stu/followdel',array('id'=>$data['id']))}">取消</a>
+
+
+								</td>
+
+
+							</tr>
+						</volist>
+					</tbody>
+				</table>
+
+
+
+
+
+
+				
+
+
+
+
+
+				<div class="clear"> </div>
+			</div>
+			<!----start-load-more-products---->
+			<div class="loadmore-products">
+
+			</div>
+			<!----//End-load-more-products---->
+		</div>
+		<div class="clear"> </div>
+	</div>
+</div>
+<include file="Public/footer"/>

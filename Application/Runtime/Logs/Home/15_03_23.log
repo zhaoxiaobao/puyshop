@@ -1,0 +1,605 @@
+[ 2015-03-23T18:01:42+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-03-23T18:01:44+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+
+[ 2015-03-23T18:01:58+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001859s ]
+
+[ 2015-03-23T18:01:58+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:02:03+08:00 ] ::1 /1/index.php/Home/Login/findpass.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
+[ 2015-03-23T18:02:03+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:02:23+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+
+[ 2015-03-23T18:02:27+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+
+[ 2015-03-23T18:21:07+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-03-23T18:21:09+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-03-23T18:21:09+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:21:20+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-03-23T18:21:21+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-03-23T18:21:21+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 非法操作:css
+
+[ 2015-03-23T18:21:23+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-03-23T18:21:23+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2015-03-23T18:21:24+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-03-23T18:21:30+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-03-23T18:21:39+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2015-03-23T18:22:17+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001395s ]
+
+[ 2015-03-23T18:23:49+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-03-23T18:23:50+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2015-03-23T18:23:50+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 非法操作:css
+
+[ 2015-03-23T18:23:52+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+
+[ 2015-03-23T18:23:52+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:29:29+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+
+[ 2015-03-23T18:29:32+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-03-23T18:29:32+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:30:37+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+
+[ 2015-03-23T18:30:40+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2015-03-23T18:30:40+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:30:50+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+
+[ 2015-03-23T18:30:54+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-03-23T18:30:54+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001614s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:31:45+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+
+[ 2015-03-23T18:31:49+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+
+[ 2015-03-23T18:31:49+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000238s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:31:52+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001435s ]
+
+[ 2015-03-23T18:31:52+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:33:19+08:00 ] ::1 /1/index.php/Home/Register/userReg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+
+[ 2015-03-23T18:33:20+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+
+[ 2015-03-23T18:33:23+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-03-23T18:33:23+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:37:43+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001533s ]
+
+[ 2015-03-23T18:37:44+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+
+[ 2015-03-23T18:37:45+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+ERR: 非法操作:css
+
+[ 2015-03-23T18:37:47+08:00 ] ::1 /1/index.php/Home/Index/role.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+
+[ 2015-03-23T18:37:47+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+
+[ 2015-03-23T18:37:48+08:00 ] ::1 /1/index.php/Home/Publish/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001776s ]
+
+[ 2015-03-23T18:37:58+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2015-03-23T18:38:00+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+
+[ 2015-03-23T18:38:16+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2015-03-23T18:38:26+08:00 ] ::1 /1/index.php/Home/Com/profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-03-23T18:38:44+08:00 ] ::1 /1/index.php/Home/Com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+
+[ 2015-03-23T18:38:48+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001767s ]
+
+[ 2015-03-23T18:38:49+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001842s ]
+ERR: 非法操作:css
+
+[ 2015-03-23T18:40:45+08:00 ] ::1 /1/index.php/Home/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2015-03-23T18:40:46+08:00 ] ::1 /1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-03-23T18:40:46+08:00 ] ::1 /1/index.php/Home/Index/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+ERR: 非法操作:css
+
+[ 2015-03-23T18:40:51+08:00 ] ::1 /1/index.php/Home/Stu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+
+[ 2015-03-23T18:40:54+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+
+[ 2015-03-23T18:40:57+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+
+[ 2015-03-23T18:40:57+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:41:32+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001726s ]
+
+[ 2015-03-23T18:41:32+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:41:38+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+
+[ 2015-03-23T18:41:38+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:41:46+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+
+[ 2015-03-23T18:41:46+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:41:57+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+
+[ 2015-03-23T18:41:57+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001786s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:43:36+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+
+[ 2015-03-23T18:43:39+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+
+[ 2015-03-23T18:43:39+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:44:38+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+
+[ 2015-03-23T18:44:41+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+
+[ 2015-03-23T18:45:13+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001360s ]
+
+[ 2015-03-23T18:45:16+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+
+[ 2015-03-23T18:45:16+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001649s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:45:26+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+
+[ 2015-03-23T18:45:26+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001562s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:47:25+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001474s ]
+
+[ 2015-03-23T18:47:25+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:47:33+08:00 ] ::1 /1/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002450s ]
+
+[ 2015-03-23T18:47:36+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+
+[ 2015-03-23T18:47:36+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:48:01+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+
+[ 2015-03-23T18:48:04+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+
+[ 2015-03-23T18:48:13+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+
+[ 2015-03-23T18:49:31+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+ERR: 模板不存在:./Application/Home/View/Index/setup.html
+
+[ 2015-03-23T18:49:52+08:00 ] ::1 /1/index.php/Home/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+
+[ 2015-03-23T18:49:52+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002448s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:50:17+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+
+[ 2015-03-23T18:50:17+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001700s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T18:50:21+08:00 ] ::1 /1/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001733s ]
+
+[ 2015-03-23T18:50:21+08:00 ] ::1 /1/index.php/Home/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001620s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-03-23T18:50:35+08:00 ] ::1 /1/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+
+[ 2015-03-23T18:50:35+08:00 ] ::1 /1/index.php/Home/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-03-23T18:51:13+08:00 ] ::1 /1/index.php/Home/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+ERR: 无法加载控制器:Contact
+
+[ 2015-03-23T18:51:25+08:00 ] ::1 /1/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2015-03-23T18:51:25+08:00 ] ::1 /1/index.php/Home/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-03-23T18:53:58+08:00 ] ::1 /1/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+
+[ 2015-03-23T18:53:58+08:00 ] ::1 /1/index.php/Home/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001474s ]
+ERR: 无法加载控制器:Css
+
+[ 2015-03-23T18:54:00+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/87.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+
+[ 2015-03-23T18:54:00+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2015-03-23T18:54:00+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2015-03-23T19:09:56+08:00 ] ::1 /1/index.php/Home/Register/setup.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002231s ]
+
+[ 2015-03-23T19:09:56+08:00 ] ::1 /1/index.php/Home/Register/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T19:10:00+08:00 ] ::1 /1/index.php/Home/Login/hangon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+
+[ 2015-03-23T19:10:00+08:00 ] ::1 /1/index.php/Home/Login/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+ERR: 非法操作:style.css
+
+[ 2015-03-23T19:55:13+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/87.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2015-03-23T19:55:13+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/css/slippry.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001627s ]
+
+[ 2015-03-23T19:55:13+08:00 ] ::1 /1/index.php/Home/Detail/detail_good/id/js/jstarbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+
+[ 2015-03-23T20:27:48+08:00 ] ::1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+
